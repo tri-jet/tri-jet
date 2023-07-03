@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can speak with me on [LinkedIn](https://www.linkedin.com/in/trijitsaha/)
-- 🎓 I am currently in my 2nd year at the University of Nottingham, studying a BSc Computer Science with a Year in Industry BSc degree.
+- 🎓 I am currently in my 2nd year at the University of Nottingham, studying a BSc Computer Science degree.
 
 <!---
 tri-jet/tri-jet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
