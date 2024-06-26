@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trijit Saha (@tri-jet)
 - 🎓 I am currently in my 3rd year at the University of Nottingham, studying a BSc Computer Science degree.
 - 🛠️ Experienced in Java, Python. Familiar with C#, C, HTML, CSS, and SQL. 
-- 🌱 I’m currently learning a mix of AWS and full-stack development. 
+- 🌱 I’m currently working on honing my full stack development skills and exploring cloud computing.
 - 📫 You can speak with me on [LinkedIn](https://www.linkedin.com/in/trijitsaha/)
 
 
