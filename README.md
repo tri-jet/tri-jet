@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Trijit Saha (@tri-jet)
-- 🎓 Graduate of Computer Science Bachelors (Hons) degree from the University of Nottingham.
-- 🛠️ Experienced in Java, Python. Familiar with C#, C, HTML, CSS, and SQL. 
-- 🌱 I’m currently working on honing my full stack development skills and exploring AI and ML.
-- 📫 You can speak with me on [LinkedIn](https://www.linkedin.com/in/trijitsaha/)
-- 🌍 Based in London.
+<h1 align="center"> Hi👋, I’m Trijit Saha (@tri-jet) </h1>
+<h3 align="center"> Product Focused Software Engineer</h3>
+
+<h3>Languages and Frameworks</h3>
+
+[![My Languages](https://skillicons.dev/icons?i=python,ts,java,fastapi,react,nextjs,nodejs,graphql,html,css,tailwind)](https://skillicons.dev)
+
+<h3>Tools</h3>
+
+[![My Tools](https://skillicons.dev/icons?i=notion,vscode,git,github,githubactions,supabase,postgres,aws,vercel,)](https://skillicons.dev)
+
+🎓 Graduate of Computer Science Bachelors (Hons) degree from the University of Nottingham.
+
+🛠️ Familiar with C#, C, HTML, CSS, and SQL.
+
+📫 You can speak with me on [LinkedIn](https://www.linkedin.com/in/trijitsaha/)
+
+🌍 Based in London.
 
 
 <!---
