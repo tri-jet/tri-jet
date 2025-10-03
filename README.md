@@ -11,7 +11,7 @@
 
 🎓 Graduate of Computer Science Bachelors (Hons) degree from the University of Nottingham.
 
-🛠️ Familiar with C#, C, HTML, CSS, and SQL.
+🛠️ Also familiar with C#, C, HTML, CSS, and SQL.
 
 📫 You can speak with me on [LinkedIn](https://www.linkedin.com/in/trijitsaha/)
 
