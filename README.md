@@ -17,7 +17,7 @@
 
 🌍 Based in London.
 
-[![Trijit's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tri-jet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Trijit's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tri-jet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <!---
