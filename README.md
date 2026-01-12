@@ -17,8 +17,11 @@
 
 🌍 Based in London.
 
+[![Trijit's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tri-jet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!---
 tri-jet/tri-jet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
